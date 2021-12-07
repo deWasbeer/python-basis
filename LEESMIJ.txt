@@ -1,0 +1,4 @@
+Download en installeer Anaconda: https://repo.anaconda.com/archive/Anaconda3-2019.07-Windows-x86_64.exe
+Open Python practicum.ipynb in het programma Jupyter dat in het windows start menu is verschenen na de installatie.
+Mocht je de bestanden niet kunnen vinden in anaconda plak de bestanden dan in je users folder:
+C:\Users\GEBRUIKERSNAAM
